@@ -1,8 +1,8 @@
 {
-	"name": "haxe-tjsonStyleCl",
+	"name": "tjsonStyleCl",
 	"url": "https://github.com/r3d9u11/haxe-tjsonStyleCl",
 	
-	"classPath": "haxe-tjsonStyleCl",
+	"classPath": "tjsonStyleCl",
 	
 	"license": "MIT",
 	"version": "1.0.0",
