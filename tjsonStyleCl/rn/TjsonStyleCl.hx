@@ -1,4 +1,4 @@
-package hxTjsonStyleCl;
+package rn;
 
 class TjsonStyleCl extends tjson.TJSON.FancyStyle {
 	public function new() super("	");
