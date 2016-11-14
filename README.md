@@ -4,21 +4,21 @@ haxe-tjsonStyleCl
 Styling for library [TJSON](https://github.com/martamius/TJSON) with indents like a:<br/>
 
 `{
-	"str": "value",
-	"num": 123,
-	"arr": [
-		"item 1",
-		"item 2",
-		"item 3"
-	],
-	"obj": {
-		...
-		...
-		...
-	},
-	...
-	...
-	...
+	"str": "value",<br/>
+	"num": 123,<br/>
+	"arr": [<br/>
+		"item 1",<br/>
+		"item 2",<br/>
+		"item 3"<br/>
+	],<br/>
+	"obj": {<br/>
+		...<br/>
+		...<br/>
+		...<br/>
+	},<br/>
+	...<br/>
+	...<br/>
+	...<br/>
 }`
 
 ## Install:
