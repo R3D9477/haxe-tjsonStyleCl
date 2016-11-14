@@ -3,7 +3,7 @@ haxe-tjsonStyleCl
 
 Styling for library [TJSON](https://github.com/martamius/TJSON) with indents like a:<br/>
 
-```json
+```
 {
 	"str": "value",
 	"num": 1231231,
